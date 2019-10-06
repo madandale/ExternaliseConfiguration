@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "externalconfiguration.profile.DBConfiguration",
+      "name": "spring.datasource",
+      "type": "externalconfiguration.profile.DBConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "externalconfiguration.profile.DBConfiguration",
+      "name": "spring.datasource.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "externalconfiguration.profile.DBConfiguration",
+      "name": "spring.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "externalconfiguration.profile.DBConfiguration",
+      "name": "spring.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "externalconfiguration.profile.DBConfiguration",
+      "name": "spring.datasource.username",
+      "type": "java.lang.String"
+    }
+  ]
+}
